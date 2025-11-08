@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 按下状态，内凹效果 -->
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#e0e0e0"
+                android:endColor="#ffffff"
+                android:angle="270" />
+            <corners android:radius="25dp" />
+            <stroke android:width="2dp" android:color="#d1d9e6" />
+        </shape>
+    </item>
+
+    <!-- 默认状态，外凸效果 -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#f0f0f3"
+                android:endColor="#e0e0e0"
+                android:angle="90" />
+            <corners android:radius="25dp" />
+            <stroke android:width="2dp" android:color="#d1d9e6" />
+        </shape>
+    </item>
+</selector>

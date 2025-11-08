@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LBIC</string>
+    <string name="connect_device_prompt">点击连接设备</string>
+
+</resources>

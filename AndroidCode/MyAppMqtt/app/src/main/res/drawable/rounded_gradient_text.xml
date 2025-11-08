@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 默认状态 -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#ece9e6"
+                android:endColor="#ffffff"
+                android:angle="0" />
+            <corners android:radius="25dp" />
+        </shape>
+    </item>
+</selector>

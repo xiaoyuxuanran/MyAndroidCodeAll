@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SpinnerSelecter">
+        <item>Main</item>
+        <item>SearchDevices</item>
+    </string-array>
+
+    
+</resources>

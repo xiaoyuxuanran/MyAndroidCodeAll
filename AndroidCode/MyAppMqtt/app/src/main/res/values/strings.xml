@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">配套APP</string>
+    <string name="title_name_of_xml_text_use">欢迎使用基于STM32的智能物联网终端配套APP</string>
+    <string name="connect_btn_main">连接</string>
+    <string name="disconnect_btn_main">断开</string>
+    <string name="tempfh">\u2103</string>
+    <string name="meau1name">设置闹钟界面</string>
+    <string name="settimename">设置闹钟时间</string>
+
+</resources>
